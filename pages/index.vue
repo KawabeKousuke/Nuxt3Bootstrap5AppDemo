@@ -4,5 +4,6 @@
     <h2>このサイトは恐竜のことが詳しく書かれているサイトです。</h2>
     <Triceratops />
     <Tyrannosaurus />
+    <Pteranodon />
   </div>
 </template>

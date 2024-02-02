@@ -1,4 +1,3 @@
-[16:25] 福元 洋貴
 <template>
     <header class="AppHeader">
         <div class="container">

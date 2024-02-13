@@ -4,7 +4,7 @@
             <nav>
                 <ul>
                     <li>
-                        <NuxtLink to="/nikushoku" class="button carnivore">肉食</NuxtLink>
+                        <NuxtLink to="/" class="button carnivore">肉食</NuxtLink>
                     </li>
                     <li>
                         <NuxtLink to="/soshoku" class="button herbivore">草食</NuxtLink>
